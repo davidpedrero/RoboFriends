@@ -1,15 +1,12 @@
 {
   "name": "robofriends",
+  "homepage" : "https://davidpedrero.github.io/RoboFriends",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://{your_github_username}.github.io/{app-name}",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^2.1.3",
+    "react-scripts": "^5.0.1",
     "tachyons": "^4.12.0"
   },
   "scripts": {
