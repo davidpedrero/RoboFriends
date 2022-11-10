@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.c4155ba7.chunk.css",
+    "main.js": "/React-app/static/js/main.ff766ea9.chunk.js",
+    "main.js.map": "/React-app/static/js/main.ff766ea9.chunk.js.map",
+    "runtime-main.js": "/React-app/static/js/runtime-main.475e2a23.js",
+    "runtime-main.js.map": "/React-app/static/js/runtime-main.475e2a23.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/React-app/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.be4edec2.chunk.js": "/React-app/static/js/2.be4edec2.chunk.js",
+    "static/js/2.be4edec2.chunk.js.map": "/React-app/static/js/2.be4edec2.chunk.js.map",
+    "static/js/3.f19781bb.chunk.js": "/React-app/static/js/3.f19781bb.chunk.js",
+    "static/js/3.f19781bb.chunk.js.map": "/React-app/static/js/3.f19781bb.chunk.js.map",
+    "index.html": "/React-app/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/React-app/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.c4155ba7.chunk.css.map": "/React-app/static/css/main.c4155ba7.chunk.css.map",
+    "static/js/2.be4edec2.chunk.js.LICENSE.txt": "/React-app/static/js/2.be4edec2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-app/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475e2a23.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.be4edec2.chunk.js",
+    "static/css/main.c4155ba7.chunk.css",
+    "static/js/main.ff766ea9.chunk.js"
+  ]
+}
