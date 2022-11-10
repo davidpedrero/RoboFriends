@@ -1,19 +1,9 @@
-# React-app
-Try out my robofriends app and search for your favorite robot!
+# robofriends
+Tutorial for React
+To run the project:
 
-RoboFriends is a React app that lets you search between different API generated robots by name. It's fully responsive and functional in different screen sizes.
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
 
-Technologies Used
-
-Front-End:
-HTML5
-CSS3
-React.js
-
-React Packages:
-Create React App
-Tachyons
-
-APIs:
-RoboHash
-JSONPlaceholder
+*visist https://zerotomastery.io/ for more*
