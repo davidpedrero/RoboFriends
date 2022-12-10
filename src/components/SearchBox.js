@@ -12,5 +12,5 @@ const SearchBox = ({ searchfield, searchChange }) => {
     </div>
   );
 }
-
+//Random comment
 export default SearchBox;
